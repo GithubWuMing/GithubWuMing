@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Ming
-- 👀 I’m interested in coding, art, languages(not programming ones), 
-- 🌱 I’m currently learning C++, Bash and more Python
-- 💞️ I’m looking to collaborate on any project that I can help out in.
+- 👀 Interested in coding, sketching, linguistics, and music
+- ❤ Love Linux!
+- 🌱 Currently learning C++, Bash, and more Python
+- 🎮 Developing a simple, text-based game, hopefully a Beta release this June/July 2023!
+- 💞️ I’m looking to collaborate on any project that I can help out in
 - 📫 How to reach me: https://discord.com/users/1076206151571615824
