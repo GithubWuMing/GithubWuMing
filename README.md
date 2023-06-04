@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ming
 - 👀 Interested in coding, sketching, linguistics, and music
-- ❤ Love Linux!
+- ❤ Love Linux and writing SRS documents!
 - 🌱 Currently learning C++, Bash, and more Python
-- 🎮 Developing a simple, text-based game, hopefully a Beta release this June/July 2023!
-- 💞️ I’m looking to collaborate on any project that I can help out in
+- 🎮 Developing a simple, text-based game, hopefully a Beta release this year!
+- 📝 Able to collaborate on any project that I can help out in
 - 📫 How to reach me: https://discord.com/users/1076206151571615824
