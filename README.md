@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ming
 - 👀 Interested in coding, sketching, linguistics, and music
-- ❤ Love Linux and writing SRS documents!
+- ❤ I love Linux, Tom and Jerry, and writing SRS documents!
 - 🌱 Currently learning C++, Bash, and more Python
 - 🎮 Developing a simple, text-based game, hopefully a Beta release this year!
 - 📝 Able to collaborate on any project that I can help out in
