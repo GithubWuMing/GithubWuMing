@@ -1,18 +1,13 @@
 - 👋 Hi, I’m Ming
 - 👀 Interested in coding, sketching, linguistics, and music
-- ⌛ Great with time management...
-- 🤷‍♂️ ...and can be paranoid or overprotective
-- ❤  I love Linux, Tom and Jerry, and writing SRS documents!
+- ⌛ Great with time management...but can be paranoid or overprotective
+- ❤ I love Linux, Tom and Jerry, and writing SRS documents!
 - 🌱 Currently learning C++, Bash, and more Python
-- 🎮 Developing a simple, text-based game, hopefully a Beta release this year!
-- 📝 Able to collaborate on any project that I can help out in
+- 🎮 Developing two simple, text-based games, hopefully a Beta release on one this year!
 - 🌏 From and born on Earth
 - 💹 Favourite animal = The Giant Siphonophore
-- ❄  Favourite season = Rainy, chilled Spring
-- 🍚 Gotta love sweet sour chicken...
-- 🚰 ...But nothing beats a glass of water at 3 am
-- ♟  Amateur and occasional chess player
-- 🏖  Absolutely hate beaches
+- 🌧 Favourite season = Rainy, chilled Spring
+- 🚰 Gotta love sweet sour chicken...But nothing beats a glass of water at 3 am
 - ⬜ White and Red are my favourite colors...🟥
 - 🟪 ...But green and purple are my lightsabers🟩
 - 📫 How to reach me: https://discord.com/users/1076206151571615824
